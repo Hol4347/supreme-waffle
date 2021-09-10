@@ -1,0 +1,13 @@
+		body {
+			background-color: yellow;
+		}
+		h1 {
+			color: navy;
+			text-align: center;
+			font-size: 40pt; 
+		}
+		p {
+			color: red;
+			text-align: center;
+			font-size: 24pt;
+		}
